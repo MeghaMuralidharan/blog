@@ -1,0 +1,61 @@
+.container2
+{
+    height: 600px;
+    width: 400px;
+    background-color:bisque ;
+    float: left;
+    margin-top: 40px;
+    margin-left: 550px;
+    align-items: center;
+    justify-content: center;
+    border-color: grey;
+}
+.mist
+{
+    font-family:cursive;
+    text-align: center;
+    margin-top: 40px;
+}
+.input
+{
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-left: 25px;
+    height: 35px;
+    width: 350px;
+}
+.button
+{
+    width: 350px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: white;
+    margin-left: 25px;
+}
+.forget
+{
+    text-align: center;
+    margin-left: 65px;
+    text-decoration: none;
+    color: white;
+    font-size: large;
+}
+div.containter3
+{
+    height: 70px;
+    width: 340px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+span.register
+{
+    text-align: center;
+    margin-left: 49px;
+}
+a.register
+{
+    text-decoration: none;
+    color: bisque;
+}

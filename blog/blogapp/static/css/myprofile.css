@@ -1,0 +1,62 @@
+.rounded-circle
+{
+    top: 40px;
+    left: 10px;
+    position: relative;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    /* size: 0cap; */
+}
+.img
+{
+    height: 35px;
+    width: 40px;
+    margin-left: 20px;
+    top: -60px;
+    position: relative;
+    background-color: white;
+}
+.username
+{
+    margin-top: -100px;
+    margin-left: 300px;
+}
+.image
+{
+    height: 50px;
+    width: 50px;
+    margin-left: 120px;
+    top: -25px;
+    position: relative;
+}
+.file-label {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 300px;
+    top: -40px;
+    position: relative;
+  }
+  
+  .file-label:hover {
+    background-color: #45a049;
+  }
+.hr
+{
+    align-items: center;
+    width: 1400px;
+    margin-left: 65px;
+    margin-top: 20px;
+}
+a.logout
+{
+    margin-left: 1420px;
+    top: -200px;
+    position: relative;
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+}
